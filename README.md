@@ -17,14 +17,15 @@ Content: discover new grids and other ways of designing a website with CSS Shape
   * CSS variables
     * _Final project_
 * __Layout in one dimension with flexbox__
-  * Introduction to flexbox
-  * Container properties
-  * Content properties
-  * Alignments on main shaft and cross shaft
-  * Advanced alignments
-  * Advanced layouts with flexbox
+  * Flexbox
+    * Introduction to flexbox
+    * Container properties
+    * Content properties
+    * Alignments on main shaft and cross shaft
+    * Advanced alignments
+  * Tarjetas & Sticky footer
+    * Advanced layouts with flexbox
     * _Final project_
 * __Two-dimensional layout with CSS grid__
 * __Advanced grid CSS__
 * __The third dimension: depth and effects in scroll__
-* _Final project_
