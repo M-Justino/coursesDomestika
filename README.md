@@ -15,7 +15,7 @@ Content: discover new grids and other ways of designing a website with CSS Shape
   * CSS columns
   * CSS shapes
   * CSS variables
-    * _Final project_
+  * _Final project_
 * __Layout in one dimension with flexbox__
   * Flexbox
     * Introduction to flexbox
@@ -25,7 +25,12 @@ Content: discover new grids and other ways of designing a website with CSS Shape
     * Advanced alignments
   * Tarjetas & Sticky footer
     * Advanced layouts with flexbox
-    * _Final project_
+  * _Final project_
 * __Two-dimensional layout with CSS grid__
+  * CSS grid
+    * Introduction to CSS grid
+    * Reticle functions
+    * Distribution and size
+    * Automatic responsive grid
 * __Advanced grid CSS__
 * __The third dimension: depth and effects in scroll__
