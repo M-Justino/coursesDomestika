@@ -27,10 +27,14 @@ Content: discover new grids and other ways of designing a website with CSS Shape
     * Advanced layouts with flexbox
   * _Final project_
 * __Two-dimensional layout with CSS grid__
-  * CSS grid
-    * Introduction to CSS grid
-    * Reticle functions
-    * Distribution and size
-    * Automatic responsive grid
+  * Introduction to CSS grid
+  * Reticle functions
+  * Distribution and size
+  * Automatic responsive grid
 * __Advanced grid CSS__
+  * Areas in the grid
+  * Alignment and order
+  * Nesting
+  * Grid (and flexbox) in practice
+  * _Final project_
 * __The third dimension: depth and effects in scroll__
